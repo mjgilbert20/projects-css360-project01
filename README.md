@@ -1,2 +1,10 @@
-# projects-css360-project01
-CSS 342 Project01
+# Project Life Cycles
+
+**Author:** Team Fanta
+
+**Team Members:**
+- Michael Gilbert
+- Abhigna Nimmagadda
+- Soha Khan
+- Isha Rajpure
+- Kevin Garcia
