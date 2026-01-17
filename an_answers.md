@@ -8,10 +8,10 @@
 **1-2 key aspects** Reuse of existing toolsets, because thats a core part of integration and configuration.  
 
 ## Project 2: Dental office site   
-**SDLC Choice:**  
-**Justification:**  
-**1-2 other models that were considered:**  
-**1-2 key aspects**  
+**SDLC Choice:** Incremental development
+**Justification:** My friend is flexible with the time when I deliver software, and they want to continually add capabilities to the website.
+**1-2 other models that were considered:**  Waterfall method was considered since all the requirements were planned out, but rejected once flexibility was listed.
+**1-2 key aspects**  Continually adding capabilities is adherent to incremental development.
 
 ## Project 3: Nuclear Power Plant  
 **SDLC Choice:**  
