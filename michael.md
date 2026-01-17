@@ -17,7 +17,7 @@ For each of the following project proposals, a software development lifecycle (S
 >
 > Your team consists of a combination of developers from your previous projects, new hires, and interns. You will need to define requirements for any template or scripting extensions that you want and schedule their development with a separate group that develops the Java interpreter and related software.
 
-Incremental
+Integration
 
 [Back to top](#top)
 
