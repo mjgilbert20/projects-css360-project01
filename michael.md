@@ -1,6 +1,13 @@
+<a id="top"></a>
 # SDLC Analysis - Michael
-For each of the following project proposals, a software development lifecycle (SDLC) model must be chosen with justification for this decision. There are a total of seven projects:
+For each of the following project proposals, a software development lifecycle (SDLC) model must be chosen with justification for this decision:
 1. [New e-Commerce site](#e-commerce)
+2. [Dental office site](#dental-office)
+3. [Nuclear Power Plant](#nuclear)
+4. [Department of Transportation](#dot)
+5. [Reducing Traffic](#traffic)
+6. [Educational Game](#educational-game)
+7. [Global Health](#global-health)
 
 <a id="e-commerce"></a>
 ## 1. New e-Commerce site
@@ -20,7 +27,9 @@ development with a separate group that develops the Java interpreter and related
 
 Incremental
 
+[Back to top](#top)
 
+<a id="dental-office"></a>
 ## 2. Dental office site
 > Your good friend, a dentist, asks you to develop a web site for their new clinic. The web site should include
 common information about the clinic like hours, location, dental staff, and downloadable forms. At some point
@@ -30,6 +39,9 @@ also wish to continually add capabilities to the website in order to draw more p
 
 Incremental
 
+[Back to top](#top)
+
+<a id="nuclear"></a>
 ## 3. Nuclear Power Plant
 > You have been assigned to oversee the development of software that will monitor the status of a new nuclear
 power plant. You have a group of scientists who can provide you with domain knowledge to help you design
@@ -44,6 +56,9 @@ but you are ultimately responsible for the overall operation of the software.
 
 Waterfall.
 
+[Back to top](#top)
+
+<a id="dot"></a>
 ## 4. Department of Transportation
 > Your company won the contract to develop a distributed application which stores data on the Cloud. This is in
 response to a thorough 100 page specifications from the Department of Transportation. The specifications is
@@ -61,6 +76,9 @@ and you have the appropriate experienced staff for the project. You bid on the p
 | left bar      | right bar     |
 | left baz      | right baz     |
 
+[Back to top](#top)
+
+<a id="traffic"></a>
 ## 5. Reducing Traffic
 > An experienced technology company hires you to manage a new project that incorporates distributed
 computing and networking with car tracking equipment. The equipment will be used to monitor individual cars
@@ -70,8 +88,12 @@ along the roads.
 >
 > Your team has mainly created proprietary hardware/software solutions in the past. The team has substantially
 skills in using object-oriented C++ to develop embedded systems.
+
 Waterfall.
 
+[Back to top](#top)
+
+<a id="educational-game"></a>
 ## 6. Educational Game
 > You lead a small experienced team of 7 developers from a gaming company. Your team is responsible for
 quickly developing educational games based on preliminary and evolving set of requirements. You have
@@ -81,6 +103,9 @@ customers, the teachers and administrators at your local school district.
 
 Incremental
 
+[Back to top](#top)
+
+<a id="global-health"></a>
 ## 7. Global Health
 > You and your friends won a multi-million dollar grant from a foundation to develop software to address current
 global challenges. Your startup company is also eligible to receive further grants if it can demonstrate
@@ -90,8 +115,9 @@ significant positive impact on the health of the people residing in developing c
 development effort. Your starting team consists of 2-3 developers who you know very well from previous
 projects.
 
+[Back to top](#top)
 
-
+TODO: Delete below once finished:
 # This is a Heading h1
 ## This is a Heading h2
 ###### This is a Heading h6
