@@ -3,42 +3,28 @@
 
 ## Project 1: e-Commerce Site  
 **SDLC Choice:** Integration and Configuration 
-**Justification:** Management expects me to use same tools with minor modifications to generate HTML5 pages and extensions needed for the new features.  
-**1-2 other models that were considered:**  Incremental development was considered, but rejected because working with multiple teams is not sustainable for an incremental model.
-**1-2 key aspects** Reuse of existing toolsets, because thats a core part of integration and configuration.  
+**Justification:** Management expects me to use same tools with minor modifications to generate HTML5 pages and extensions needed for the new features. Since tools can be reused, integration and configuration is the best option.
 
 ## Project 2: Dental office site   
 **SDLC Choice:** Incremental development
-**Justification:** My friend is flexible with the time when I deliver software, and they want to continually add capabilities to the website.
-**1-2 other models that were considered:**  Waterfall method was considered, but rejected once flexibility was listed.
-**1-2 key aspects**  Continually adding capabilities is adherent to incremental development.
+**Justification:** My friend is flexible with the time when I deliver software, and they want to continually add capabilities to the website. This means that new tasks can be added on whenever the previous one has been completed, hence incrementally. 
 
 ## Project 3: Nuclear Power Plant  
 **SDLC Choice:** Waterfall method
-**Justification:**  Safety is critical because of past failures, so a well thought out plan is needed.
-**1-2 other models that were considered:**  Boehm's spiral model was considered, but rejected since planning wasn't a big focus.
-**1-2 key aspects**  The software should be reliable no matter what the conditions are, so planning is required.
+**Justification:**  Safety is highlighted as a priority in this project description. Since many failures have been previously documented, a thorough analytical plan is necessary.
 
 ## Project 4: Department of Transportation
 **SDLC Choice:** Integration and Configuration  
-**Justification:**  I have already been working on similar solutions in the transporatation domain, so resources would be reused.  
-**1-2 other models that were considered:**  Incremental development was considered, but rejected since there was a hard 18-month deadline.  
-**1-2 key aspects**  Since "similar solutions" were devloped previously, reuse is a big option.  
-
+**Justification:**  I have already been working on similar solutions in the transportation domain. This means that many of the resources needed for this specific project can be reused from the previous ones.
+ 
 ## Project 5: Reducing Traffic
-**SDLC Choice:**  
-**Justification:**  
-**1-2 other models that were considered:**  
-**1-2 key aspects**  
+**SDLC Choice:** Waterfall method  
+**Justification:** The team is developing an large-scale embedded system. This means that thorough documentation is necessary, since there will be minimal further changes to the system in the future.
 
 ## Project 6: Educational game
 **SDLC Choice:**  
-**Justification:**  
-**1-2 other models that were considered:**  
-**1-2 key aspects**  
+**Justification:**   
 
 ## Project 7: Global Health
 **SDLC Choice:**  
 **Justification:**  
-**1-2 other models that were considered:**  
-**1-2 key aspects**  
