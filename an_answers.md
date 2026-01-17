@@ -2,10 +2,10 @@
 **Author:** Abhigna Nimmagadda  
 
 ## Project 1: e-Commerce Site  
-**SDLC Choice:**  
-**Justification:**  
-**1-2 other models that were considered:**  
-**1-2 key aspects**  
+**SDLC Choice:** Integration and Configuration 
+**Justification:** Management expects me to use same tools with minor modifications to generate HTML5 pages and extensions needed for the new features.  
+**1-2 other models that were considered:**  Incremental development was also considered because there are two distinct groups of developers working simultaneously on the same product.  
+**1-2 key aspects** Reuse of existing toolsets, because thats a core part of integration and configuration.  
 
 ## Project 2: Dental office site   
 **SDLC Choice:**  
