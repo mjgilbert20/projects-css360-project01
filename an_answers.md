@@ -14,13 +14,13 @@
 **1-2 key aspects**  Continually adding capabilities is adherent to incremental development.
 
 ## Project 3: Nuclear Power Plant  
-**SDLC Choice:**  
-**Justification:**  
-**1-2 other models that were considered:**  
-**1-2 key aspects**  
+**SDLC Choice:** Waterfall method
+**Justification:**  Safety is critical because of past failures, so a well thought out plan is needed.
+**1-2 other models that were considered:**  Boehm's spiral model was considered because it was risk-driven, but rejected since planning wasn't a big focus.
+**1-2 key aspects**  The software should be reliable no matter what the conditions are, so planning is required.
 
 ## Project 4: Department of Transportation
-**SDLC Choice:**  
+**SDLC Choice:** 
 **Justification:**  
 **1-2 other models that were considered:**  
 **1-2 key aspects**  
