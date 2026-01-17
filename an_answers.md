@@ -22,8 +22,8 @@
 **Justification:** The team is developing an large-scale embedded system. This means that thorough documentation is necessary, since there will be minimal further changes to the system in the future.
 
 ## Project 6: Educational game
-**SDLC Choice:**  
-**Justification:**   
+**SDLC Choice:**  Agile (Scrum)
+**Justification:** The team is small and experienced. This along with the fact that the requirements are always evolving means that sprints wil allow them to finish the product most efficiently.  
 
 ## Project 7: Global Health
 **SDLC Choice:**  
