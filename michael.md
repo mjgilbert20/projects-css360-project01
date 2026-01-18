@@ -17,7 +17,8 @@ For each of the following project proposals, a software development lifecycle (S
 >
 > Your team consists of a combination of developers from your previous projects, new hires, and interns. You will need to define requirements for any template or scripting extensions that you want and schedule their development with a separate group that develops the Java interpreter and related software.
 
-Integration
+* **Model**: Integration and configuration
+* **Justification**: 
 
 [Back to top](#top)
 
@@ -47,13 +48,7 @@ Waterfall.
 > 
 > Your company has developed similar solutions in the transportation domain on numerous previous occasions, and you have the appropriate experienced staff for the project. You bid on the project to be completed within 18 months based on a team of 10 software engineers.
 
-### Table
-
-| Left columns  | Right columns |
-| ------------- |:-------------:|
-| left foo      | right foo     |
-| left bar      | right bar     |
-| left baz      | right baz     |
+Incremental
 
 [Back to top](#top)
 
@@ -81,71 +76,6 @@ Incremental
 > 
 > Your whole company currently only has 5 people. You will need to hire team members as part of the development effort. Your starting team consists of 2-3 developers who you know very well from previous projects.
 
+Incremental
+
 [Back to top](#top)
-
-TODO: Delete below once finished:
-# This is a Heading h1
-## This is a Heading h2
-###### This is a Heading h6
-
-## Emphasis
-
-*This text will be italic*  
-_This will also be italic_
-
-**This text will be bold**  
-__This will also be bold__
-
-_You **can** combine them_
-
-## Lists
-
-### Unordered
-
-* Item 1
-* Item 2
-* Item 2a
-* Item 2b
-    * Item 3a
-    * Item 3b
-
-### Ordered
-
-1. Item 1
-2. Item 2
-3. Item 3
-    1. Item 3a
-    2. Item 3b
-
-## Images
-
-![This is an alt text.](/image/Markdown-mark.svg "This is a sample image.")
-
-## Links
-
-You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
-
-## Blockquotes
-
-> Markdown is a lightweight markup language with plain-text-formatting syntax, created in 2004 by John Gruber with Aaron Swartz.
->
->> Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
-
-## Table
-
-| Left columns  | Right columns |
-| ------------- |:-------------:|
-| left foo      | right foo     |
-| left bar      | right bar     |
-| left baz      | right baz     |
-
-## Blocks of code
-
-```
-let message = 'Hello world';
-alert(message);
-```
-
-## Inline code
-
-This web site is using `markedjs/marked`.
