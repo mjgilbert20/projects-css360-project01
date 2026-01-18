@@ -1,15 +1,15 @@
 # Project 01: Individual Section - Isha Rajpure
 
 
-|           Scenario           |       Chosen Model        |
-| ---------------------------- | ------------------------- |
-| New e-Commerce Site          | Integration/Configuration |
-| Dental Office Site           | Incremental               |
-| Nuclear Power Plant          | Waterfall                 |
-| Department of Transportation | Integration/Configuration |
-| Reducing Traffic             | Waterfall                 |
-| Educational Game             | Incremental & Agile       |
-| Global Health                | Incremental               |
+| # |           Scenario           |       Chosen Model        |
+| - | ---------------------------- | ------------------------- |
+| 1 | New e-Commerce Site          | Integration/Configuration |
+| 2 | Dental Office Site           | Incremental               |
+| 3 | Nuclear Power Plant          | Waterfall                 |
+| 4 | Department of Transportation | Integration/Configuration |
+| 5 | Reducing Traffic             | Waterfall                 |
+| 6 | Educational Game             | Incremental & Agile       |
+| 7 | Global Health                | Incremental               |
 
 
 ### Scenario 01: New e-Commerce Site
