@@ -3,18 +3,18 @@
 
 | # |           Scenario           |       Chosen Model        |
 | - | ---------------------------- | ------------------------- |
-| 1 | New e-Commerce Site          | Integration/Configuration |
-| 2 | Dental Office Site           | Incremental               |
-| 3 | Nuclear Power Plant          | Waterfall                 |
-| 4 | Department of Transportation | Integration/Configuration |
-| 5 | Reducing Traffic             | Waterfall                 |
-| 6 | Educational Game             | Incremental & Agile       |
-| 7 | Global Health                | Incremental               |
+| 1. | New e-Commerce Site          | Integration/Configuration |
+| 2. | Dental Office Site           | Incremental               |
+| 3. | Nuclear Power Plant          | Waterfall                 |
+| 4. | Department of Transportation | Integration/Configuration |
+| 5. | Reducing Traffic             | Waterfall                 |
+| 6. | Educational Game             | Incremental & Agile       |
+| 7. | Global Health                | Incremental               |
 
 
 ### Scenario 01: New e-Commerce Site
 
-**Integration and Configuration** - This project is a good fit for the integration model because Perfect Apparel is requesting the product be developed by modifying their existing tools. Furthermore, the company is recruiting their experienced workers who have worked on these similar products and are familiar with the old products.
+**Integration and Configuration** - This project is a good fit for the integration model because PerfectApparel is requesting the product be developed by modifying their existing tools. Furthermore, the company is recruiting their experienced workers who have worked on these similar products and are familiar with the old products.
 
 ### Scenario 02: Dental Office Site
 
