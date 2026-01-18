@@ -1,15 +1,15 @@
 # Project 01: Individual Section - Isha Rajpure
 
 
-| # |           Scenario           |       Chosen Model        |
-| - | ---------------------------- | ------------------------- |
-| 1. | New e-Commerce Site          | Integration/Configuration |
-| 2. | Dental Office Site           | Incremental               |
-| 3. | Nuclear Power Plant          | Waterfall                 |
-| 4. | Department of Transportation | Integration/Configuration |
-| 5. | Reducing Traffic             | Waterfall                 |
-| 6. | Educational Game             | Incremental & Agile       |
-| 7. | Global Health                | Incremental               |
+| # |           Scenario           |       Chosen Model                 |
+| - | ---------------------------- | ---------------------------------- |
+| 1. | New e-Commerce Site          | Integration/Configuration         |
+| 2. | Dental Office Site           | Incremental                       |
+| 3. | Nuclear Power Plant          | Waterfall                         |
+| 4. | Department of Transportation | Integration/Configuration & Agile |
+| 5. | Reducing Traffic             | Waterfall                         |
+| 6. | Educational Game             | Incremental & Agile               |
+| 7. | Global Health                | Incremental & Agile               |
 
 
 ### Scenario 01: New e-Commerce Site
@@ -26,7 +26,8 @@
 
 ### Scenario 04: Department of Transportation
 
-**Integration and Configuration & Agile** - Your company will be creating software similar to your previous projects, so the integration and configuration model is applicable. With such a small team and little time to deliver, *reusing old components* from previous projects will be efficient, and because these components are owned by the company, you will have *control over their evolution* which will allow for more flexibility in this product. Also, an agile format can be followed because of the *time constraint* and small team.
+**Integration and Configuration & Agile** - Your company will be creating software similar to your previous projects, so the integration and configuration model is applicable. With such a small team and little time to deliver, *reusing old components* from previous projects will be efficient, and because these components are owned by the company, you will have *control over their evolution* which will allow for more flexibility in this product. 
+* Also, an agile format can be followed because of the *time constraint* and small team.
 
 ### Scenario 05: Reducing Traffic
 
@@ -34,8 +35,10 @@
 
 ### Scenario 06: Educational Game
 
-**Incremental & Agile** - Given the time crunch for the first release, it is ideal to follow to the incremental model. The company will be able to push out *basic functionality early* on for customers, and can *continue releasing updates* as the requirements evolve. The new updates will also give the marketing team continuous content for advertising, which will attract more customers. With the size of the team, it is recommended to follow the agile format to encourage speed and productivity.
+**Incremental & Agile** - Given the time crunch for the first release, it is ideal to follow to the incremental model. The company will be able to push out *basic functionality early* on for customers, and can *continue releasing updates* as the requirements evolve. The new updates will also give the marketing team continuous content for advertising, which will attract more customers. 
+* With the size of the team, it is recommended to follow the agile format to encourage speed and productivity.
 
 ### Scenario 07: Global Health
 
-**Incremental & Agile** - The incremental model is best in this project because of the changing requirements: the team could be rewarded with more resources which will require them to *redistribute resources* and possibly expand the scope of the project. Also, to receive additional grants, the team must *quickly produce* a product for evaluation, so they will need start with just the basics. This project should be following the agile method to increase speed of delivery and ensure teammates are focused on the core requirements.
+**Incremental & Agile** - The incremental model is best in this project because of the changing requirements: the team could be rewarded with more resources which will require them to *redistribute resources* and possibly expand the scope of the project. Also, to receive additional grants, the team must *quickly produce* a product for evaluation, so they will need start with just the basics. 
+* This project should be following the agile method to increase speed of delivery and ensure teammates are focused on the core requirements.
