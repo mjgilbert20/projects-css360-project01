@@ -18,7 +18,7 @@ For each of the following project proposals, a software development lifecycle (S
 > Your team consists of a combination of developers from your previous projects, new hires, and interns. You will need to define requirements for any template or scripting extensions that you want and schedule their development with a separate group that develops the Java interpreter and related software.
 
 * **Model**: Integration and configuration
-* **Justification**: 
+* **Justification**: The project uses previously existing in-house templates. Management expects us to use these with customized modifications to complete the project. 
 
 [Back to top](#top)
 
@@ -26,7 +26,8 @@ For each of the following project proposals, a software development lifecycle (S
 ## 2. Dental office site
 > Your good friend, a dentist, asks you to develop a web site for their new clinic. The web site should include common information about the clinic like hours, location, dental staff, and downloadable forms. At some point in the future, they would like to include an ability to make online appointments, send automated reminders via text messages, and issue discounts. Your friend is flexible with the time when you will deliver software. They also wish to continually add capabilities to the website in order to draw more patients to their clinic.
 
-Incremental
+* **Model**: Incremental
+* **Justification**: The flexible delivery date of this project lends itself to be ideal for incremental development. The requirements are expected to change after the initial specifications are successfully implemented, and delivery is expected in stages, or prototypes. (Spiral may be a better option, not sure if that would be the correct categorization)
 
 [Back to top](#top)
 
@@ -38,7 +39,8 @@ Incremental
 >
 > The utility company who owns the power plant allows you to subcontract parts of the software development, but you are ultimately responsible for the overall operation of the software.
 
-Waterfall.
+* **Model**: Waterfall
+* **Justification**: This project has a strict set of requirements for the system that is meant to last for a long time. The project is also safety critical and leaves little to no room for error. There is a group of scientists designated for designing the software, which leads me to believe that is the phase where a lot of time/resources will be spent.
 
 [Back to top](#top)
 
@@ -48,7 +50,8 @@ Waterfall.
 > 
 > Your company has developed similar solutions in the transportation domain on numerous previous occasions, and you have the appropriate experienced staff for the project. You bid on the project to be completed within 18 months based on a team of 10 software engineers.
 
-Incremental
+* **Model**: Incremental
+* **Justification**: This is a distributed application with data stored on the cloud - updates are meant to be made rapidly for live deployment. The delivery is expected a relatively constrained timeframe with a specific set of engineers, so speed and efficiency of development will be important.
 
 [Back to top](#top)
 
@@ -58,7 +61,8 @@ Incremental
 >
 > Your team has mainly created proprietary hardware/software solutions in the past. The team has substantially skills in using object-oriented C++ to develop embedded systems.
 
-Waterfall.
+* **Model**: Waterfall.
+* **Justification**: The project works with embedded devices that will be difficult to update once deployed. This is also safety critical as it will directly affect the conditions for drivers in traffic and their safety on the road.
 
 [Back to top](#top)
 
@@ -66,7 +70,8 @@ Waterfall.
 ## 6. Educational Game
 > You lead a small experienced team of 7 developers from a gaming company. Your team is responsible for quickly developing educational games based on preliminary and evolving set of requirements. You have internal and external customers who expect to use your games ASAP for their own testing efforts. You have a team member who participates on educational conferences as well as acts a marketing representative to your customers, the teachers and administrators at your local school district.
 
-Incremental
+* **Model**: Incremental
+* **Justification**: Development for this project must be quick, with customers expecting to use the final project ASAP for testing. Deployment will most likely need to be online for near-instant availability. Having a team member who interacts directly with stakeholders makes me think there will be scrum meetings/standups where the group is, to some degree, informed of each developer's progress.
 
 [Back to top](#top)
 
@@ -76,6 +81,7 @@ Incremental
 > 
 > Your whole company currently only has 5 people. You will need to hire team members as part of the development effort. Your starting team consists of 2-3 developers who you know very well from previous projects.
 
-Incremental
+* **Model**: Incremental
+* **Justification**: Since we know the starting team very well and will need to hire more team members, we should incorporate an informal meeting cadence, like standups, to get everyone comfortable with working together and on the same page. Our company has the potential for further funding, and thus further requirements/updates, should we successfully meet the impact goals laid out by the foundation.
 
 [Back to top](#top)
