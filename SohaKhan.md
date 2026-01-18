@@ -1,5 +1,7 @@
 ## Individual Response: Soha Khan
 
+[Link to Canvas Project 1 Assignment Instructions](https://canvas.uw.edu/courses/1878643/assignments/10827489)
+
 ### Project Response Navigation: 
 1. [New e-Commerce Site](#new-e-commerce)
 2. [Dental Office Site](#dental-office)
