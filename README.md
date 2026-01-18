@@ -8,3 +8,5 @@
 - Soha Khan
 - Abhigna Nimmagadda
 - Isha Rajpure
+
+[View Proposals](https://github.com/mjgilbert20/projects-css360-project01/blob/main/teamfanta.md)
