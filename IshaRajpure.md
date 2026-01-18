@@ -26,7 +26,7 @@
 
 ### Scenario 04: Department of Transportation
 
-**Integration and Configuration** - Your company will be creating software similar to your previous projects, so the integration and configuration model is applicable. With such a small team and little time to deliver, reusing old components from previous projects will be efficient, and because these components are owned by the company, you will have control over their evolution which will allow for more flexibility in this product.
+**Integration and Configuration & Agile** - Your company will be creating software similar to your previous projects, so the integration and configuration model is applicable. With such a small team and little time to deliver, reusing old components from previous projects will be efficient, and because these components are owned by the company, you will have control over their evolution which will allow for more flexibility in this product. Also, an agile format can be followed because of the time constraint and small team.
 
 ### Scenario 05: Reducing Traffic
 
@@ -38,4 +38,4 @@
 
 ### Scenario 07: Global Health
 
-**Incremental** - The incremental model is best in this project because of the changing requirements: the team could be rewarded with more resources which will require them to redistribute resources and possibly expand the scope of the project. Also, to receive additional grants, the team must quickly produce a product for evaluation, so they will need start with just the basics.
+**Incremental & Agile** - The incremental model is best in this project because of the changing requirements: the team could be rewarded with more resources which will require them to redistribute resources and possibly expand the scope of the project. Also, to receive additional grants, the team must quickly produce a product for evaluation, so they will need start with just the basics. This project should be following the agile method to increase speed of delivery and ensure teammates are focused on the core requirements.
