@@ -19,7 +19,7 @@ For each of the following project proposals, a software development lifecycle (S
 
 * **Model**: Integration and configuration
 * **Justification**: Management expects us to use and slightly modify the existing tools to generate deliverables. This model is less expensive with resources due to the reuse of given technology from the company.  
-* **Other Models Considered**: <u>Incremental development</u>, specifically <u>agile methods</u> were considered since it’s a live web application with changes needed constantly. We ultimately rejected this model due to system degradation with additional increments.
+* **Other Models Considered**: <ins>Incremental development</ins>, specifically <ins>agile methods</ins> were considered since it’s a live web application with changes needed constantly. We ultimately rejected this model due to system degradation with additional increments.
 * **Key Aspects**: 
   * Reuse and customization of existing software
 
@@ -31,7 +31,7 @@ For each of the following project proposals, a software development lifecycle (S
 
 * **Model**: Incremental development
 * **Justification**: Flexibility on delivery time with certain requirements being prioritized for the first iteration, which sounds like prototyping.
-* **Other Models Considered**: <u>The waterfall model</u> since the request has clearly outlined requirements. We ultimately rejected this model because the requirements can be further added to or developed in the process. 
+* **Other Models Considered**: <ins>The waterfall model</ins> since the request has clearly outlined requirements. We ultimately rejected this model because the requirements can be further added to or developed in the process. 
 * **Key Aspects**: 
   * Open to incremental updates with prioritized requirements
   * Flexibility with deliverables
@@ -48,7 +48,7 @@ For each of the following project proposals, a software development lifecycle (S
 
 * **Model**: Waterfall - Formal Development variant - B method
 * **Justification**: With previous power plant failures in mind, this is a critical system where there is an abundant need for safety and security. Also, we are requested to subcontract parts of software development which can be clearly defined in the longer specification stage associated with the waterfall model. We chose B method-based formal development processes to simplify the production with safety and security in mind.
-* **Other Models Considered**: The <u>spiral model</u> was considered to reduce the risks of the waterfall model due to its rigidity, but ultimately this isn’t a project where multiple prototypes can be developed and must be finalized. Failure would be catastrophic 👀
+* **Other Models Considered**: The <ins>spiral model</ins> was considered to reduce the risks of the waterfall model due to its rigidity, but ultimately this isn’t a project where multiple prototypes can be developed and must be finalized. Failure would be catastrophic 👀
 * **Key Aspects**: 
   * Safety and critical reliability requirements must be met prior to deployment
   * Larger scale project 
@@ -64,9 +64,9 @@ For each of the following project proposals, a software development lifecycle (S
 * **Model**: Spiral
 * **Justification**: Requirements for this project are very well specified. The project must be completed *within* 18 months, leaving room for the project to be finished early should any iteration of the prototype be deemed sufficient.
 * **Other Models Considered**: 
-  * <u>Integration</u> - similar solutions were developed by the company and can be integrated to save time and reduce repetitive work. However, with integration, specifications may not be prioritized.
-  * <u>Incremental</u> - large framework decisions can be made earlier in development however this project requires emphasis on the specifications for the final deliverable 
-  * <u>Waterfall</u> - project is a response to a long list of specifications, with a set number of engineers to distribute the work across. 
+  * <ins>Integration</ins> - similar solutions were developed by the company and can be integrated to save time and reduce repetitive work. However, with integration, specifications may not be prioritized.
+  * <ins>Incremental</ins> - large framework decisions can be made earlier in development however this project requires emphasis on the specifications for the final deliverable 
+  * <ins>Waterfall</ins> - project is a response to a long list of specifications, with a set number of engineers to distribute the work across. 
 * **Key Aspects**: 
   * One final product with multiple functional prototypes 
   * Detailed requirements/specifications for deliverable 
@@ -82,8 +82,8 @@ For each of the following project proposals, a software development lifecycle (S
 * **Model**: Waterfall
 * **Justification**: This project has to be well thought through to include different teams and incorporate with the broader traffic network. It also requires the implementation of embedded systems, which are usually inflexible due to the hardware.
 * **Other Models Considered**: 
-  * <u>Incremental</u> - it sounds like the team will need feedback throughout development to apply previous systems. However, due to the complexity of this project, it may be unrealistic to push out the project in versions.
-  * <u>Integration and configuration</u> - utilization of previous equipment and technology, however, this project is not centered on customization of previous software for development. 
+  * <ins>Incremental</ins> - it sounds like the team will need feedback throughout development to apply previous systems. However, due to the complexity of this project, it may be unrealistic to push out the project in versions.
+  * <ins>Integration and configuration</ins> - utilization of previous equipment and technology, however, this project is not centered on customization of previous software for development. 
 * **Key Aspects**: 
   * Large system with broader engineering systems involved
   * Critical to maintain safety for people in traffic
@@ -97,7 +97,7 @@ For each of the following project proposals, a software development lifecycle (S
 
 * **Model**: Incremental
 * **Justification**: This project requires an immediate release of the product as well as a flexible developing environment, allowing for new requirements to be implemented. By using the incremental process, the marketing team will also have something to advertise to customers with each iteration of development.
-* **Other Models Considered**: <u>Waterfall</u> was considered for the security aspect, but ultimately it was not a good fit because game requirements and features will change after playtesting.
+* **Other Models Considered**: <ins>Waterfall</ins> was considered for the security aspect, but ultimately it was not a good fit because game requirements and features will change after playtesting.
 * **Key Aspects**: 
   * Evolving set of requirements
   * Small team working closely 
@@ -114,7 +114,7 @@ For each of the following project proposals, a software development lifecycle (S
 
 * **Model**: Incremental - Agile Methods using Scrum and Stand-Ups
 * **Justification**: Upon successful development, there will be additional resources provided for further development, meaning more prototypes and early subsets to be released. Also, the familiarity with the team and the project means less need for formal communication and development, which is characteristic of scrum methodology, common in agile development. Stand-ups will be expected.
-* **Other Models Considered**: <u>Waterfall</u> was considered due to the expense of the project and the consideration of stakeholders in terms of the health of people residing in the countries the project is being implemented in. However, this project has changing requirements and potential for more acquired resources. 
+* **Other Models Considered**: <ins>Waterfall</ins> was considered due to the expense of the project and the consideration of stakeholders in terms of the health of people residing in the countries the project is being implemented in. However, this project has changing requirements and potential for more acquired resources. 
 * **Key Aspects**: 
   * Expansion
   * Informal communication
