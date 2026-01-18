@@ -61,7 +61,7 @@ For each of the following project proposals, a software development lifecycle (S
 >
 > Your team has mainly created proprietary hardware/software solutions in the past. The team has substantially skills in using object-oriented C++ to develop embedded systems.
 
-* **Model**: Waterfall.
+* **Model**: Waterfall
 * **Justification**: The project works with embedded devices that will be difficult to update once deployed. This is also safety critical as it will directly affect the conditions for drivers in traffic and their safety on the road.
 
 [Back to top](#top)
