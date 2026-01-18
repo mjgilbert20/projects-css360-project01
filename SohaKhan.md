@@ -35,3 +35,19 @@
 **Justification**: The incremental methodology would be best with its stepwise fashion and the ability to have feedback with early release of subsets. Feedback is necessary since the team does not have as much specific experience with networking projects and will require further observation. Large framework decisions and architecture should be made in advance.     
 
 ---
+## 6. Educational Game
+
+**Chosen Model**: Incremental - agil
+
+**Justification**: Incremental, agile methodology given quick turnaround without overdesigning and evolving set of requirements. Faster response time and less overhead with the delivery of the game being ongoing and requirements changing throughout the process.      
+
+---
+## 7. Global Health
+
+**Chosen Model**: Incremental 
+
+**Justification**: 
+Incremental development due to the fact that feedback from prototypes and early subsets of development to prove good use can result in further grants. Moreover, there is a smaller team base for the development 
+      
+
+---
